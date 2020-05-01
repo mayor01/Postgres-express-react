@@ -1,0 +1,5 @@
+# dependencies
+node_modules
+
+# production
+config/config.json
